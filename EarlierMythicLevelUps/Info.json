@@ -1,0 +1,12 @@
+﻿{
+  "Id": "EarlierMythicLevelUps",
+  "DisplayName": "Earlier Mythic level ups",
+  "Author": "AlterAsc",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "EarlierMythicLevelUps.dll",
+  "EntryMethod": "EarlierMythicLevelUps.Main.Load",
+  "HomePage": "https://github.com/alterasc/EarlierMythicLevelUps",
+  "Repository": "https://raw.githubusercontent.com/alterasc/EarlierMythicLevelUps/main/Repository.json"
+}
